@@ -13,8 +13,8 @@
 
 
 
-!memory](https://user-images.githubusercontent.com/106920094/191130164-5d863161-b483-41f0-9fc7-e2ccc2cec48a.PNG)
-![memory 2](https://user-images.githubusercontent.com/106920094/191130170-3ad2dd5f-8213-44f7-9a68-949e0bfafd30.PNG)
+(https://user-images.githubusercontent.com/106920094/191130164-5d863161-b483-41f0-9fc7-e2ccc2cec48a.PNG)
+(https://user-images.githubusercontent.com/106920094/191130170-3ad2dd5f-8213-44f7-9a68-949e0bfafd30.PNG)
 
    
 
