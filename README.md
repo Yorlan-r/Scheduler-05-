@@ -11,10 +11,10 @@
 
 ## Usage
 
+![memory](https://user-images.githubusercontent.com/106920094/191130261-2bc3a67e-4b88-4671-b65f-975d061fcbbd.PNG)
+![memory 2](https://user-images.githubusercontent.com/106920094/191130268-0423b8ec-f3b8-4cbb-afa9-5354eee79199.PNG)
 
 
-(https://user-images.githubusercontent.com/106920094/191130164-5d863161-b483-41f0-9fc7-e2ccc2cec48a.PNG)
-(https://user-images.githubusercontent.com/106920094/191130170-3ad2dd5f-8213-44f7-9a68-949e0bfafd30.PNG)
 
    
 
